@@ -1,0 +1,39 @@
+================================================================================
+CS467 MINI-PROJECT (MP-C11) - REQUIRED TEST CASES OUTPUT
+================================================================================
+
+[TEST CASE 1] Idea Query Recommendation
+Query: 'AI assistant for clinic appointment scheduling and triage'
+------------------------------------------------------------
+  #1 | S01 - MedTriage AI (HealthTech, Seed) | Sim Score: 0.4858 | Shared Keywords: triage (0.10), scheduling (0.07), clinic appointment (0.06), ai assistant (0.06), appointment scheduling (0.06)
+  #2 | S34 - VoiceCare (HealthTech, Pre-Seed) | Sim Score: 0.2784 | Shared Keywords: triage (0.09), clinic (0.07), scheduling (0.05), appointment (0.04), ai (0.03)
+  #3 | S12 - HireSync (HRTech, Pre-Seed) | Sim Score: 0.1180 | Shared Keywords: scheduling (0.07), assistant (0.03), ai (0.02)
+  #4 | S08 - ClinicaFlow (HealthTech, Seed) | Sim Score: 0.0554 | Shared Keywords: scheduling (0.06)
+  #5 | S04 - CodeGuard (CyberSecurity, Series A) | Sim Score: 0.0349 | Shared Keywords: ai (0.03)
+
+[TEST CASE 2] Similar-Startup Test (Bookmarked Item)
+Bookmarked Startup: S01 - MedTriage AI (HealthTech)
+------------------------------------------------------------
+  #1 | S34 - VoiceCare (HealthTech, Pre-Seed) | Sim Score: 0.2905 | Shared Keywords: triage (0.07), triage scheduling (0.05), scheduling (0.04), clinic (0.03), healthcare (0.03)
+  #2 | S15 - LinguaBot (EdTech, Seed) | Sim Score: 0.1436 | Shared Keywords: nlp chatbot (0.05), chatbot (0.05), nlp (0.03), conversational (0.02), ai (0.01)
+  #3 | S08 - ClinicaFlow (HealthTech, Seed) | Sim Score: 0.1156 | Shared Keywords: scheduling (0.05), healthtech (0.03), healthcare (0.03), healthtech healthtech (0.01)
+  #4 | S12 - HireSync (HRTech, Pre-Seed) | Sim Score: 0.1137 | Shared Keywords: scheduling (0.06), nlp (0.03), assistant (0.01), automated (0.01), ai (0.01)
+  #5 | S26 - NurseBot (HealthTech, Seed) | Sim Score: 0.1127 | Shared Keywords: healthcare (0.03), healthtech (0.03), nlp (0.03), patient (0.01), assistant (0.01)
+
+[TEST CASE 3] Cold-Start Startup Test (Zero Ratings)
+New Startup: S41 - ClinicTriage Lite (HealthTech, Pre-Seed) | Ratings count: 0
+Pitch: Lightweight AI assistant for clinic appointment scheduling, symptom triage, and automated patient intake reminders.
+  (a) Top-5 startups matching the new pitch query:
+      #1 | S41 - ClinicTriage Lite | Sim Score: 0.7308 | Shared Keywords: triage (0.05), clinic (0.05), scheduling (0.04), reminders (0.04), scheduling symptom (0.04)
+      #2 | S01 - MedTriage AI | Sim Score: 0.3523 | Shared Keywords: triage (0.05), scheduling (0.04), symptom triage (0.03), symptom (0.03), clinic appointment (0.03)
+      #3 | S34 - VoiceCare | Sim Score: 0.1593 | Shared Keywords: triage (0.05), clinic (0.04), scheduling (0.03), appointment (0.02), ai (0.02)
+      #4 | S12 - HireSync | Sim Score: 0.0761 | Shared Keywords: scheduling (0.04), assistant (0.02), automated (0.01), ai (0.01)
+      #5 | S26 - NurseBot | Sim Score: 0.0330 | Shared Keywords: patient (0.02), assistant (0.01)
+  (b) Top-5 startups most similar to the zero-rating startup S41:
+      #1 | S01 - MedTriage AI | Sim Score: 0.4298 | Shared Keywords: triage (0.07), scheduling (0.06), healthtech (0.04), clinic (0.03), scheduling nlp (0.03)
+      #2 | S34 - VoiceCare | Sim Score: 0.2307 | Shared Keywords: triage (0.06), clinic (0.05), scheduling (0.04), healthtech (0.04), appointment (0.01)
+      #3 | S12 - HireSync | Sim Score: 0.0997 | Shared Keywords: scheduling (0.05), nlp (0.02), assistant (0.01), automated (0.01), ai (0.01)
+      #4 | S08 - ClinicaFlow | Sim Score: 0.0898 | Shared Keywords: scheduling (0.04), healthtech (0.04), healthtech healthtech (0.01)
+      #5 | S26 - NurseBot | Sim Score: 0.0848 | Shared Keywords: healthtech (0.04), nlp (0.02), patient (0.01), assistant (0.01), healthtech healthtech (0.01)
+
+================================================================================
