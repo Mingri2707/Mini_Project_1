@@ -1,0 +1,41 @@
+item_id,startup_name,sector,stage,pitch_summary,tech_tags
+S01,MedTriage AI,HealthTech,Seed,AI assistant for automated clinic appointment scheduling and patient symptom triage using conversational NLP,nlp chatbot healthcare triage scheduling
+S02,FinPulse,FinTech,Series A,Real-time cash flow forecasting and automated invoice reconciliation platform for small businesses,fintech accounting machine-learning forecasting automation
+S03,AgriSense,AgriTech,Seed,IoT soil moisture sensors and drone computer vision for precision crop irrigation and yield prediction,iot computer-vision agriculture drones analytics
+S04,CodeGuard,CyberSecurity,Series A,Automated static code analysis and AI vulnerability detection for cloud native microservices,security devsecops static-analysis cloud ai
+S05,EduMate,EdTech,Pre-Seed,Personalized adaptive learning tutor that generates custom STEM practice quizzes for high school students,edtech personalization nlp education adaptive-learning
+S06,GreenGrid,CleanTech,Series A,Smart microgrid energy management system optimizing solar battery storage and EV charging loads,cleantech energy smart-grid optimization iot
+S07,LogiRoute,Logistics,Seed,Dynamic last-mile delivery route optimization engine reducing fleet fuel consumption and late arrivals,logistics optimization routing supply-chain gps
+S08,ClinicaFlow,HealthTech,Seed,Digital front-desk automation and smart calendar booking system for dental and outpatient medical clinics,healthcare scheduling workflow-automation saas booking
+S09,PayBridge,FinTech,Pre-Seed,Cross-border B2B payment gateway with instant currency conversion and low-fee stablecoin settlement,fintech payments blockchain cross-border b2b
+S10,RetailLens,RetailTech,Seed,Computer vision shelf monitoring and automated inventory restocking alerts for convenience stores,computer-vision retail inventory automation analytics
+S11,DiagnoScan,HealthTech,Series A,Deep learning radiology image analysis tool detecting early stage pulmonary nodules in chest X-rays,healthcare deep-learning medical-imaging radiology ai
+S12,HireSync,HRTech,Pre-Seed,AI resume screening and automated technical interview scheduling assistant for fast growing startups,hrtech recruitment nlp scheduling automation
+S13,FarmChain,AgriTech,Seed,Blockchain supply chain traceability platform connecting organic coffee farmers directly with global roasters,agritech blockchain supply-chain traceability sustainability
+S14,ShieldMail,CyberSecurity,Seed,Anti-phishing email security filter using transformer models to detect social engineering attacks,security nlp phishing email-protection transformers
+S15,LinguaBot,EdTech,Seed,Voice-enabled conversational AI language partner helping professionals practice business English fluency,edtech speech-recognition nlp chatbot language
+S16,SolarTwin,CleanTech,Pre-Seed,Digital twin simulation software for rooftop solar panel placement and shading loss estimation,cleantech simulation solar-energy saas modeling
+S17,FleetPulse,Logistics,Series A,Predictive maintenance telematics platform monitoring commercial truck engine health and battery wear,logistics iot predictive-maintenance telematics fleet
+S18,CareConnect,HealthTech,Pre-Seed,Remote patient monitoring mobile app tracking post-surgery recovery vitals and medication adherence,healthcare mobile-app telemedicine remote-monitoring vitals
+S19,CreditMind,FinTech,Seed,Alternative credit scoring API evaluating thin-file gig workers using cashflow and transaction patterns,fintech credit-scoring machine-learning api risk
+S20,ShopVibe,RetailTech,Pre-Seed,Visual search and AI outfit recommendation widget for independent e-commerce fashion boutiques,ecommerce recommendation-system computer-vision retail fashion
+S21,BioSynthLab,BioTech,Series A,Generative protein folding design platform accelerating novel enzyme discovery for industrial manufacturing,biotech generative-ai bioinformatics drug-discovery simulation
+S22,LegalEase,LegalTech,Seed,Automated contract review and NDA redlining assistant highlighting risky legal clauses for founders,legaltech nlp contract-analysis automation saas
+S23,PropView,PropTech,Pre-Seed,3D virtual tour generator converting smartphone walkthrough videos into interactive floor plans,proptech computer-vision 3d-modeling mobile-app real-estate
+S24,AquaPure,CleanTech,Seed,Smart water leak detection valves and municipal pipeline pressure analytics preventing urban water loss,cleantech iot smart-city sensors analytics
+S25,TaxPilot,FinTech,Seed,Automated quarterly tax estimation and receipt categorization assistant for freelancers and creators,fintech tax-automation nlp ocr finance
+S26,NurseBot,HealthTech,Seed,Voice-activated clinical documentation assistant transcribing doctor-patient consultations into EHR notes,healthcare speech-to-text nlp ehr clinical-workflow
+S27,SkillForge,EdTech,Seed,Interactive cloud sandbox labs for hands-on cybersecurity and Kubernetes DevOps certification training,edtech cloud-computing devops cybersecurity simulation
+S28,PackSmart,Logistics,Pre-Seed,3D bin packing optimization API minimizing warehouse shipping box waste and dimensional weight fees,logistics optimization algorithms api ecommerce
+S29,FraudShield,FinTech,Series A,Real-time graph neural network fraud detection engine blocking account takeover and payment scams,fintech fraud-detection graph-neural-networks security api
+S30,CropDoctor,AgriTech,Pre-Seed,Offline-first mobile plant disease diagnosis app identifying leaf blight from smartphone camera photos,agritech mobile-app computer-vision plant-health offline-ai
+S31,VaultZero,CyberSecurity,Series A,Zero-trust secrets management and automated API key rotation platform for engineering teams,security zero-trust devops cryptography cloud
+S32,MindSpaceHR,HRTech,Seed,Employee burnout early-warning analytics and anonymous pulse survey platform for remote tech teams,hrtech people-analytics wellbeing remote-work saas
+S33,CarbonLedger,CleanTech,Seed,Automated Scope 1 2 3 carbon footprint accounting and ESG compliance reporting dashboard for enterprises,cleantech esg sustainability reporting analytics
+S34,VoiceCare,HealthTech,Pre-Seed,Automated phone call triage and appointment reminder voice bot for high-volume primary care clinics,healthcare voice-ai triage scheduling clinic-automation
+S35,StockSense,RetailTech,Seed,Demand forecasting engine predicting seasonal SKU sales spikes to reduce retail overstocking,retail demand-forecasting time-series machine-learning inventory
+S36,DocuSigna,LegalTech,Pre-Seed,Biometric e-signature and identity verification workflow for remote real estate closings,legaltech biometrics identity-verification proptech security
+S37,AeroInspect,Robotics,Seed,Autonomous indoor warehouse drones performing barcode scanning and pallet height audits overnight,robotics drones computer-vision warehouse automation
+S38,SoundScape,MediaTech,Pre-Seed,AI royalty-free background music generator adapting tempo dynamically for indie game developers,mediatech generative-ai audio gaming creative-tools
+S39,UrbanCharge,CleanTech,Seed,Curbside EV charger sharing marketplace connecting homeowners with urban apartment electric vehicle drivers,cleantech ev-charging marketplace mobility sharing-economy
+S40,OmniDesk,SaaS,Seed,Unified customer support ticketing inbox with AI auto-drafted replies grounded in company knowledge bases,saas customer-support nlp rag automation

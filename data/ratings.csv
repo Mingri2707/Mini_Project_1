@@ -1,0 +1,239 @@
+user_id,item_id,interest_rating,mentor_note
+M01,S01,5,Strong fit for healthcare triage automation thesis
+M01,S08,5,Practical clinic scheduling workflow with clear ROI
+M01,S11,4,Impressive radiology accuracy needs FDA roadmap
+M01,S18,4,Good patient adherence angle for post-op care
+M01,S26,5,Solves major doctor burnout on EHR charting
+M01,S34,5,Direct synergy with outpatient clinic triage
+M01,S05,2,Outside my core digital health investment focus
+M01,S09,1,Not interested in crypto or cross-border payments
+M01,S14,3,Solid NLP tech but crowded email security market
+M01,S21,4,Exciting generative protein platform
+M01,S22,3,Useful legal tool for early founders
+M01,S30,3,Nice computer vision application for farmers
+M01,S32,4,Relevant to healthcare worker burnout
+M01,S38,1,Not aligned with my B2B health portfolio
+M01,S40,3,Good RAG implementation for support teams
+M01,S02,2,Too many competitors in SMB accounting
+M01,S04,3,Strong technical founding team
+M02,S02,5,Great SMB cashflow forecasting traction
+M02,S09,4,Promising B2B cross-border payment rails
+M02,S19,5,Underserved gig worker credit scoring niche
+M02,S25,4,Clean tax automation UX for freelancers
+M02,S29,5,Essential graph fraud detection for fintechs
+M02,S33,3,Growing ESG reporting demand
+M02,S01,2,Healthcare sales cycles are too long for me
+M02,S03,1,Hardware IoT margins are challenging
+M02,S07,3,Decent logistics routing optimization
+M02,S12,3,HR automation is competitive
+M02,S22,4,Strong B2B SaaS contract review potential
+M02,S28,3,Interesting shipping API model
+M02,S31,4,Critical security infrastructure for fintech
+M02,S35,4,Good predictive analytics for retail cashflow
+M02,S36,4,Useful identity verification for financial closings
+M02,S40,3,Solid SaaS unit economics
+M02,S15,2,Consumer edtech retention is tough
+M03,S03,5,Love the drone and soil sensor combination
+M03,S06,5,Smart grid optimization is critical for renewables
+M03,S13,4,Transparent coffee supply chain traceability
+M03,S16,4,Useful solar modeling tool for installers
+M03,S24,5,Municipal water leak prevention has huge impact
+M03,S30,5,Offline plant disease detection helps smallholders
+M03,S33,5,Must-have carbon accounting for enterprises
+M03,S39,4,Clever curbside EV charger sharing model
+M03,S09,1,No interest in blockchain payment gateways
+M03,S20,1,Fashion e-commerce is not impact-driven
+M03,S38,1,Gaming audio is outside climate tech scope
+M03,S07,4,Reduces fleet emissions via route optimization
+M03,S17,3,Good telematics for fleet efficiency
+M03,S28,4,Reduces packaging waste in e-commerce
+M03,S10,2,Standard retail analytics
+M03,S01,3,Good social impact in clinic access
+M03,S21,3,Bio-manufacturing could lower industrial emissions
+M04,S04,5,Top-notch DevSecOps static code analysis
+M04,S14,5,Transformer phishing detection works well
+M04,S27,4,Great hands-on cybersecurity sandbox labs
+M04,S29,5,Strong real-time fraud and ATO protection
+M04,S31,5,Zero-trust secrets management is a must-buy
+M04,S36,4,Solid biometric verification workflow
+M04,S01,3,Interesting NLP pipeline for triage
+M04,S08,2,Simple scheduling app lacks deep tech moat
+M04,S15,2,Not focused on language learning apps
+M04,S20,1,Low technical defensibility
+M04,S23,3,Cool 3D computer vision reconstruction
+M04,S37,4,Autonomous warehouse drones have strong tech
+M04,S40,3,Standard RAG wrapper unless data moat exists
+M04,S02,3,Needs stronger security compliance story
+M04,S11,4,Impressive deep learning model architecture
+M04,S19,3,Data privacy is key for alternative credit
+M04,S38,2,Niche gaming audio generator
+M05,S05,5,Adaptive STEM tutor shows strong student engagement
+M05,S12,4,Helpful AI assistant for campus recruiting
+M05,S15,5,Voice AI fluency practice is super engaging
+M05,S27,5,Hands-on cloud labs bridge the skills gap
+M05,S32,4,Important workplace wellbeing insights
+M05,S01,4,Great example of applied NLP assistant
+M05,S08,3,Useful scheduling automation
+M05,S18,3,Good mobile UX for patient education
+M05,S22,3,Could help law students and founders
+M05,S26,4,Impressive speech-to-text accuracy
+M05,S34,4,Conversational voice bot with clear utility
+M05,S09,1,Too speculative for my mentoring focus
+M05,S17,2,Heavy industrial logistics not my domain
+M05,S24,2,Municipal sales cycles are very slow
+M05,S37,2,Hardware robotics requires heavy capex
+M05,S40,4,Great knowledge base automation
+M05,S38,3,Fun creative tool for student game devs
+M06,S07,5,Immediate fuel savings in last-mile routing
+M06,S10,4,Automated shelf restocking solves retail pain
+M06,S13,4,End-to-end agricultural supply traceability
+M06,S17,5,Predictive truck maintenance prevents downtime
+M06,S28,5,Smart 3D box packing saves huge shipping costs
+M06,S35,5,Accurate retail demand forecasting reduces waste
+M06,S37,5,Warehouse inventory drones speed up audits
+M06,S02,3,Helpful financial visibility for operators
+M06,S06,3,Relevant to electric fleet charging depots
+M06,S09,3,Cross-border B2B settlement helps importers
+M06,S18,1,Healthcare apps are outside supply chain
+M06,S21,1,Biotech R&D is too far from logistics
+M06,S38,1,Not relevant to industrial operations
+M06,S04,2,Enterprise IT security tool
+M06,S20,3,E-commerce fulfillment integration potential
+M06,S24,3,Infrastructure sensor analytics
+M06,S33,4,Supply chain carbon tracking is increasingly required
+M07,S01,5,Love the clinical triage and booking synergy
+M07,S08,5,Clean SaaS solution for outpatient clinics
+M07,S12,4,Streamlines repetitive interview scheduling
+M07,S22,4,Saves founders thousands in legal review fees
+M07,S25,4,Simple automated bookkeeping for solo workers
+M07,S26,5,Ambient clinical scribe saves hours daily
+M07,S34,5,Voice AI clinic receptionist has huge demand
+M07,S40,5,Practical AI customer support automation
+M07,S03,2,AgriTech hardware is hard to scale quickly
+M07,S11,3,Long clinical trial validation required
+M07,S21,2,Deep science requires specialized PhD mentors
+M07,S30,2,Hard to monetize smallholder farmer apps
+M07,S37,2,High hardware manufacturing risk
+M07,S02,4,Good recurring B2B SaaS metrics
+M07,S15,3,Crowded language app space
+M07,S19,3,Interesting fintech API play
+M07,S32,4,Easy SaaS deployment for remote teams
+M08,S10,5,Computer vision retail analytics is booming
+M08,S20,5,Visual fashion search boosts conversion rates
+M08,S23,5,3D smartphone floor plans transform real estate
+M08,S28,4,E-commerce packaging optimization is smart
+M08,S35,5,Essential SKU demand forecasting for retailers
+M08,S36,4,Smooth digital closing experience for buyers
+M08,S02,3,Useful financial dashboard for store owners
+M08,S07,4,Fast last-mile delivery delights shoppers
+M08,S09,3,Cross-border merchant payments
+M08,S11,2,Medical radiology is outside consumer tech
+M08,S17,2,Heavy trucking fleet focus
+M08,S21,1,Not a fit for retail and commerce mentors
+M08,S31,2,Developer security infrastructure
+M08,S12,3,Helpful hiring tool for retail chains
+M08,S15,3,Nice consumer mobile app design
+M08,S39,3,Good consumer marketplace mechanics
+M08,S40,4,Great e-commerce customer support bot
+M09,S03,4,Strong computer vision on agricultural drones
+M09,S10,5,Real-time retail shelf vision works reliably
+M09,S11,5,High-impact medical imaging deep learning
+M09,S20,4,Good visual similarity search model
+M09,S23,5,Impressive 3D reconstruction from mobile video
+M09,S30,5,Practical edge vision model for crop disease
+M09,S37,5,Autonomous drone navigation and barcode vision
+M09,S01,3,Text NLP rather than computer vision
+M09,S09,1,Pure fintech without AI differentiation
+M09,S12,2,Basic keyword and resume parsing
+M09,S25,3,OCR receipt scanning is somewhat commoditized
+M09,S32,1,HR survey tool lacks deep tech
+M09,S39,2,Standard marketplace app
+M09,S04,3,Interesting code analysis engine
+M09,S16,3,3D solar shading simulation is neat
+M09,S21,4,Strong generative AI modeling team
+M09,S29,4,Advanced graph machine learning
+M10,S01,4,High-value NLP triage for busy clinics
+M10,S05,4,Personalized NLP tutoring adapts well
+M10,S12,4,Good NLP matching for technical roles
+M10,S14,5,Strong transformer model for phishing defense
+M10,S15,5,Natural conversational speech and NLP
+M10,S22,5,Accurate legal clause extraction using NLP
+M10,S26,5,Best-in-class medical speech transcription
+M10,S34,5,Responsive voice bot for clinic scheduling
+M10,S40,5,Well-grounded RAG support assistant
+M10,S03,2,Hardware sensor focus
+M10,S06,2,Power grid electrical engineering
+M10,S17,2,Mechanical telematics focus
+M10,S24,2,Water infrastructure hardware
+M10,S39,1,EV charging hardware sharing
+M10,S02,3,Some automated text categorization
+M10,S25,3,Good receipt text extraction
+M10,S29,3,Fraud analytics rather than NLP
+M11,S06,5,Essential grid battery and EV load balancing
+M11,S16,4,Accurate solar installation modeling
+M11,S17,4,Predictive maintenance for electric fleets
+M11,S24,5,Smart water sensor network saves resources
+M11,S33,5,Enterprise ESG and carbon reporting standard
+M11,S39,5,Solves urban apartment EV charging bottleneck
+M11,S03,4,Precision irrigation saves water and energy
+M11,S07,4,Lower fuel burn through smart routing
+M11,S13,3,Sustainable agriculture supply chain
+M11,S20,1,Fast fashion e-commerce conflicts with sustainability
+M11,S38,1,Unrelated entertainment startup
+M11,S09,2,High energy blockchain concerns
+M11,S12,2,Generic HR software
+M11,S22,2,Standard legal SaaS
+M11,S28,4,Cuts cardboard waste in shipping
+M11,S37,3,Efficient warehouse automation
+M11,S01,3,Good digital health access
+M12,S02,4,Solid B2B financial SaaS traction
+M12,S04,4,Strong enterprise DevSecOps value proposition
+M12,S08,4,Repeatable SaaS playbook for medical clinics
+M12,S19,4,Scalable API business model for lenders
+M12,S22,5,High-margin B2B legal workflow SaaS
+M12,S29,5,Mission-critical enterprise fraud API
+M12,S31,5,Strong developer adoption for secrets security
+M12,S33,4,Sticky enterprise ESG compliance software
+M12,S40,4,Clear ROI for B2B support teams
+M12,S05,2,B2C edtech has high customer acquisition cost
+M12,S15,2,Consumer language apps churn quickly
+M12,S20,2,Small boutique fashion market
+M12,S30,1,Difficult monetization in rural farming
+M12,S38,1,Indie gaming market is too fragmented
+M12,S12,3,Competitive HR tech landscape
+M12,S25,3,Freelancer churn can be high
+M12,S35,4,Strong enterprise retail SaaS
+M13,S01,5,Top pick for AI clinic triage and scheduling
+M13,S11,5,Breakthrough radiology AI diagnostic tool
+M13,S18,4,Engaging post-surgery remote monitoring
+M13,S21,5,Transformative generative AI for drug discovery
+M13,S26,5,High doctor adoption for voice EHR notes
+M13,S34,5,Great voice triage assistant for clinics
+M13,S08,4,Complements clinical workflow automation
+M13,S04,2,Outside life sciences and health
+M13,S07,1,Logistics is unrelated to biotech
+M13,S09,1,No fintech focus
+M13,S10,1,Retail shelf vision is out of scope
+M13,S23,1,Real estate tech not relevant
+M13,S28,1,Packaging API not relevant
+M13,S39,2,Mobility sector outside my expertise
+M13,S05,3,Interesting adaptive learning algorithms
+M13,S32,3,Hospital staff burnout is a real issue
+M13,S40,3,Could adapt for patient support desks
+M14,S05,4,Engaging adaptive quiz generation
+M14,S15,5,Great mobile speech practice experience
+M14,S18,4,Clean mobile UI for patient recovery
+M14,S20,4,Fun visual search shopping experience
+M14,S23,5,Super intuitive smartphone 3D room scanner
+M14,S30,5,Offline mobile camera diagnosis is very practical
+M14,S38,5,Creative generative audio tool for indie devs
+M14,S39,4,User-friendly EV charger sharing app
+M14,S04,2,Deep backend security infrastructure
+M14,S06,2,Utility-scale power grid software
+M14,S17,2,Heavy commercial trucking focus
+M14,S29,2,Backend banking fraud API
+M14,S31,1,Command-line developer security tool
+M14,S33,2,Corporate ESG compliance spreadsheet replacement
+M14,S01,4,Helpful patient-facing clinic assistant
+M14,S12,3,Good UX for candidate scheduling
+M14,S25,4,Simple mobile receipt scanner for creators
